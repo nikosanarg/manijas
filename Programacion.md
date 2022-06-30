@@ -1,8 +1,5 @@
 Nico:
-
--------------
-
-Meli:
+Mi vieja me dio la vida, y el desarrollo web las ganas de vivirla
 
 -------------
 
@@ -21,3 +18,12 @@ Blas:
 Enano:
 
 -------------
+
+Juli:
+
+-------------
+
+Maggi
+
+-------------
+
