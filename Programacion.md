@@ -14,7 +14,7 @@ Thomi:
 
 -------------
 
-Blas:
+Blas: Caninos Superiores
 
 -------------
 
