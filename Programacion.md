@@ -19,7 +19,7 @@ Enano:
 
 -------------
 
-Juli:
+Juli: Hola, soy un bot friendly :)
 
 -------------
 
