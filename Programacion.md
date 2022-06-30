@@ -4,7 +4,7 @@ Mi vieja me dio la vida, y el desarrollo web las ganas de vivirla
 -------------
 
 Sinse:
-El tango y las teclas me sacan la careta | comer es poder
+Mira mamá, estoy programando! | https://www.youtube.com/watch?v=9YCEWsDJGSg
 -------------
 
 Thomi:
