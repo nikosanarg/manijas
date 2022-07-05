@@ -15,7 +15,7 @@ Blas: Caninos Superiores
 
 -------------
 
-Enano: 
+Enano: Hola vivo con sueño
 
 -------------
 
