@@ -17,7 +17,7 @@ Elementos HTMl / <etiquetas>
 
 HAY DOS TIPOS: BLOCK E INLINE
 
-Blok:
+Block:
       *heading desde <h1> hasta <h6> (representa un grupo de ayudas introductorias o de navegación. Puede contener algunos elementos de encabezado, así como también un logo, un formulario de búsqueda, un nombre de autor y otros componentes)
       *parrafos <p> (es el apropiado para distribuir el texto en párrafos)
       *bloques <div> (define las divisiones lógicas existentes en el contenido de una página web. Puede utilizar etiquetas div para centrar bloques de contenido, crear efectos de columna y crear diferentes áreas de color, entre otras posibilidades)
