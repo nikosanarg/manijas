@@ -48,3 +48,26 @@ Flujo del ejercicio de HTML:
 10) Mergear a master y pushear (traer la rama creada a la rama master y subir a la nube la rama master con tu nueva rama incorporada)
 
 
+Flujo del ejercicio de HTML + CSS:
+
+Parte 1: Estructura
+0) git pull para actualizar el repositorio
+1) crear una rama nueva (nombre: "feature/css-mi-nombre)
+- se recomienda usar solo minúsculas para el nombre
+2) Crear una carpeta de nombre: "mi-nombre" dentro de la carpeta "pages" 
+3) Colocar la página HTML que hicimos la última clase en esa carpeta con tu nombre
+4) Crear en la carpeta con tu nombre un archivo CSS (con extensión .css y cualquier nombre)
+5) git add + commit + push (pero NO mergear a master)
+
+Parte 2: Estilos
+1) En el archivo HTML, asociar el archivo CSS con la etiqueta <link>
+2) En el CSS: Crear una Clase "texto-color" que cambie el color del texto a uno específico (propiedad color)
+3) En el CSS: Crear un ID "texto-grande" que le ponga al texto un tamaño de 32px (propiedad font-size)
+4) En el CSS: Darle al elemento body (que no es Clase ni ID) un color de fondo claro (propiedad background-color)
+5) En el HTML: Ponerle el atributo class="texto-color" a los elementos que queremos cambiar el color de texto
+6) En el HTML: Ponerle el atributo id="texto-grande" al primer h1 que tengamos en la página
+
+Parte 3: Confirmar cambios
+1) Guardar los cambios en ambos archivos (HTML y CSS) con CTRL + S
+2) git add + commit + push
+3) Mergear a master y pushear
