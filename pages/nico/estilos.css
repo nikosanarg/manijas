@@ -1,0 +1,36 @@
+body {
+    padding: 20px;
+    margin: 0;
+    /* background-image: url("../../assets/windows.jpg");
+    background-repeat: repeat;
+    background-position: 50px 20px; */
+    background-color: wheat;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: #30851d;
+    color: rgba(0, 0, 255, 1);
+    color: white;
+    text-shadow: 2px 1px 5px rgb(56, 45, 45);
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.texto-noticia {
+    text-align: justify;
+}
+
+#link-noticia {
+    color: violet;
+    text-decoration: none;
+}
+
+.container {
+    /* box-shadow: 2px 1px 15px rgb(56, 45, 45); */
+    border: 2px solid red;
+}
