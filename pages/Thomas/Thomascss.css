@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(108, 40, 148, 0.801);
+    font-family:'Edu NSW ACT Foundation', cursive;
+}
+.abuelo .padre{
+    Color:rgb(0, 162, 255)
+}
+.abuelo .campeon{
+    Color: white
+}
+h1{
+    background-color: black;
+    text-align: center;
+}
+a{
+    color:rgb(2, 15, 92);
+    text-decoration: none;
+}
+img {
+    width:400px;
+}
+.contenedor {
+    text-align: center;
+}
+button{
+    cursor:pointer;
+    background-color: rgba(160, 17, 17, 0.753);
+}
+button:active{
+    background-color: rgba(108, 40, 148, 0.801);
+}
+h2{
+    background-color: rgb(78, 40, 12);
+    width:500px;
+    margin:0 auto;
+    transition: box-shadow 0,3s ease;
+    border-radius: 0.1px;
+}
+h2:hover{
+    box-shadow: 0 3px 4px bisque;
+    color:bisque;
+}
+#cafe {
+    color:saddlebrown;
+    text-decoration: none;
+}
+article{
+    margin: 0 auto;
+}
