@@ -1,0 +1,101 @@
+div {
+    padding: 15px;
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+}
+
+.h-inline{
+    display: inline-block;
+}
+
+.big-grad-background {
+    background: linear-gradient(90deg, rgba(190,0,0,1) 0%, rgba(175,94,0,1) 10%, rgba(119,171,0,1) 20%, rgba(0,167,3,1) 30%, rgba(0,163,98,1) 40%, rgba(0,90,171,1) 50%, rgba(29,0,198,1) 60%, rgba(141,0,210,1) 70%, rgba(224,0,178,1) 80%, rgba(239,0,89,1) 90%, rgba(255,0,0,1) 100%); color: rgb(0, 0, 0);
+    font-size: 40px;                                                        
+}
+
+.span-big{
+    font-size: 40px;
+}
+
+.color-titulo {
+    color:burlywood;
+}
+
+.color-link {
+    color:chartreuse;
+}
+
+.color1 {
+    background-color: #191970;
+}
+
+.color2 {
+    background-color: #ba55d3;
+}
+
+.color3 {
+    background-color: #f0e68c;
+}
+
+.color4 {
+    background-color: #00ffff;
+}
+
+.color5 {
+    background-color: #000080;
+}
+
+.color6 {
+    background-color: #ff00bf;
+}
+
+.color7 {
+    background-color: #deb887;
+}
+
+.color8 {
+    background-color: #5f9ea0;
+}
+
+.color9 {
+    background-color: #d2691e;
+}
+
+.color10 {
+    background-color: #4169e1;
+}
+
+.color11 {
+    background-color: #ff69b4;
+}
+
+.color12 {
+    background-color: #228b03;
+}
+
+.color13 {
+    background-color: #008080;
+}
+
+.color14 {
+    background-color: #b22222;
+}
+
+.color15 {
+    background-color: #ffd700;
+}
+
+.color16 {
+    background-color:#4b0082;
+}
+
+.color17 {
+    background-color:#00ff00;
+}
+
+.color18 {
+    background-color:#fa8072;
+}
