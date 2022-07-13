@@ -1,6 +1,10 @@
-h1 {
-    font-size: 50px;
+#texto-grande {
+    font-size: 32px;
     text-align: center;
-    color: rgb(176, 6, 198)
-    backgr
+    text-shadow: 5px 3px 1px white;
+    font-family: 'Arima', cursive;
+    font-weight: 900;
+    background-color: rgb(255, 234, 230);
+    color: rgb(105, 0, 2)
+    
 }
